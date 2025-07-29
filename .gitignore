@@ -1,0 +1,17 @@
+/node_modules
+/.env
+/node_modules/.cache
+/dist
+/src
+/coverage
+/.DS_Store
+/.vscode
+/.idea
+/.history
+/node_modules/.vite
+/.eslintcache
+/.cache-loader
+/.yarn
+/.yarn/cache
+/.yarn/unplugged
+    
